@@ -1,6 +1,7 @@
-# Turborepo starter
+# Paytm Clone
 
-This is an official starter Turborepo.
+Mimicing paytm's or any other payment application's workflow
+
 ![Alt text](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F085e8ad8-528e-47d7-8922-a23dc4016453%2F888fec18-4140-4f67-9820-7878a4897e84%2FScreenshot_2024-03-23_at_6.35.20_PM.png?table=block&id=c791d5db-4676-4d03-b8e6-587f9854dab5&cache=v2 "Archetecture Image")
 
 ## Using this example
